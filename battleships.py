@@ -366,5 +366,5 @@ def main():
     print("Game over! You required", shots, "shots.")
 
 
-if __name__ == '__main__': #keep this in
+if __name__ == '__main__':
    main()
