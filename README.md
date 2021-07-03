@@ -1,1 +1,1 @@
-# Battlehips
+# Battleships
